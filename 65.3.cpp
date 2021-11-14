@@ -54,4 +54,4 @@ int main()
 		cout << o.licz;
 }
 
-
+ 
